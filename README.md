@@ -1,5 +1,5 @@
 # javascript-cli-game
-How well you know Javascript?
+How well you know Gangs of Wasseypur?
 
 # Description
 Command-line game based on the movie Gangs of Wasseypur. This game is built in Javascript and uses readline-sync and chalk from npm for interacting with the command line and for colouring the text.   
